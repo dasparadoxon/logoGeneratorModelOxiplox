@@ -1,4 +1,4 @@
-# Logo - Generator Model "Oxiplox"
+# Logo-Generator - Model **"Oxiplox"**
  
 
 Experimental transforming of a nice logo into a generic customizable generator for that kind of logo.
