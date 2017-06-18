@@ -1,5 +1,5 @@
-# Logo - Generator 
-## Model "Oxiplox" :cow:
+# Logo - Generator Model "Oxiplox"
+ 
 
 Experimental transforming of a nice logo into a generic customizable generator for that kind of logo.
 
@@ -7,7 +7,9 @@ Experimental transforming of a nice logo into a generic customizable generator f
 
 Up to now it is just using the RGB percental differences basing on the color differences in the original logo.
 
-[Contribution guidelines for this project](documentation/screenshots/logoGenerator8.jpg)
+<img src="(documentation/screenshots/logoGenerator8.jpg)">
+
+:cow:
 
 
 
