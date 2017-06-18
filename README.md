@@ -1,5 +1,14 @@
-# Logo - Generator Model "Oxiplox"
+# Logo - Generator 
+##Model "Oxiplox" :cow:
+
+Experimental transforming of a nice logo into a generic customizable generator for that kind of logo.
+
+   Depending on a base color the programm sets the colors of every element depending on its percental relation to that base color.
+
+Up to now it is just using the RGB percental differences basing on the color differences in the original logo.
+
+
 
 <img src="https://github.com/dasparadoxon/logoGeneratorModelOxiplox/blob/master/documentation/screenshots/logoGenerator8.jpg">
 
-Experimental transforming of a nice logo into a generic customizable generator for that kind of logo.
+
